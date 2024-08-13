@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/22fda917-4435-42fe-99a2-7c758c2bfbb0)# Marketing-Campaigns-Performance-Analysis-Python-
+ Marketing-Campaigns-Performance-Analysis-Python-
 We will be analysing the performance of 2 marketing campaigns to evalue the effectiveness of campaigns
 Problem Statement 
 As a marketing agency, our primary objective is to maximize the return on investment (ROI)for our clients' advertising campaigns
